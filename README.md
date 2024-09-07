@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a react app**
+ 🔭 Currently working on **a react app**
  
- 🌱 I’m currently learning **React Native Expo, Tailwind, JavaScript **
+ 🌱 Learning **React Native Expo, Tailwind, JavaScript **
 
 💬 Ask me about **Node.js, React, JavaScript... or anything [here](https://github.com/astr1cs/astr1cs/issues)**
 
