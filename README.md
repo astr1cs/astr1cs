@@ -1,15 +1,14 @@
 
-- 🌱 I’m currently learning React, Tailwind, JavaScript...
-- 👯 I’m looking to collaborate on Front End Projects.
-- 💬 Ask me about anything
 
-- ⚡ Fun fact: There’s a species of jellyfish that is essentially immortal.
 
 <p align="center">
 <!--   <a href="https://github.com/astr1cs/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Meraz+Uddin;Software+Developer+Enthusiast..;Nice+To+Meet+You+....&center=true"></a></p>
     
-
+- 🌱 I’m currently learning React, Tailwind, JavaScript...
+- 👯 I’m looking to collaborate on Front End Projects.
+- 💬 Ask me about anything
+- ⚡ Fun fact: There’s a species of jellyfish that is essentially immortal.
     
 # 🖥️ Technical Skills: 
 <p align="center">
