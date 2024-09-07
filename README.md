@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-https://github.com/astr1cs/astr1cs/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
   
   <br/><br/><br/>
 </div>
