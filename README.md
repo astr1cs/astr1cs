@@ -84,10 +84,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=astr1cs&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=astr1cs&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=astr1cs&theme=radical&hide_border=false)
-<img src="https://github.com/astr1cs/astr1cs/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+
 <br/>
 
-![snake gif](https://github.com/astr1cs/astr1cs/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
 
