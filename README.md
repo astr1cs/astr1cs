@@ -1,6 +1,4 @@
 
-
-
 <p align="center">
 <!--   <a href="https://github.com/astr1cs/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Meraz+Uddin;Software+Developer+Enthusiast..;Nice+To+Meet+You+....&center=true"></a></p>
