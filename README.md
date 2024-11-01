@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning React, Tailwind, JavaScript...
 - 👯 I’m looking to collaborate on Front End Projects.
 - 💬 Ask me about anything
-- ⚡ Fun fact: There’s a species of jellyfish that is essentially immortal.
     
 # 🖥️ Technical Skills: 
 <p align="center">
