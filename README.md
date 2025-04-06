@@ -94,15 +94,6 @@ I'm Meraz Uddin</h1>
 </div>
 <br><br>
 
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astr1cs/astr1cs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astr1cs/astr1cs/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/astr1cs/astr1cs/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
