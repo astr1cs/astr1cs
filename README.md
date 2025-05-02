@@ -30,6 +30,7 @@ I'm Meraz Uddin</h1>
 - 💬 Ask me about **JavaScript, React, C#, C++**
 - 📫 Email: **merazuddin003@gmail.com**
 - 👯 Open to collaborating on **open-source web development projects**
+- Portfolio: www.merazuddin.me
 
 <br><br>
 
