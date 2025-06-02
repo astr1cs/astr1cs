@@ -26,7 +26,7 @@ I'm Meraz Uddin</h1>
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on [Chromaaa](https://chromaaa.time2watch.space/)
+- 🔭 I’m currently working on [Chroma Ecommerce App](https://chroma.merazuddin.me/)
 - 💬 Ask me about **JavaScript, React, C#, C++**
 - 📫 Email: **merazuddin003@gmail.com**
 - 👯 Open to collaborating on **open-source web development projects**
