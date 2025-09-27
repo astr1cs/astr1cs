@@ -1,11 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=1000&color=E2E2E2&center=true&vCenter=true&width=1200&lines=Greetings+From+Meraz+Uddin.;Your+Passport+to+a+World+of+Wonder!)](https://git.io/typing-svg)
+<!-- This is a comment in Markdown [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=1000&color=E2E2E2&center=true&vCenter=true&width=1200&lines=Greetings+From+Meraz+Uddin;Founder+of+KommerceBD+Ecommerce+Solutions!)](https://git.io/typing-svg) -->
 
-<img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqcHE0enpvMmY0NDg0MTZ2bmF0MjY5OGJqbmwzZTN4b3pqMmw5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y81LcaKMWn4VDMgEX1/giphy.gif" width="160">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad944b60-96dc-4ae5-9486-f981d5842975/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif" width="174" height="190">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif" width="160">
+
 
 </div>
 
@@ -17,30 +14,36 @@
 I'm Meraz Uddin</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Founder+at+KommerceBD;Full+Stack+Developer;" alt="Typing SVG" />
 </h3>
 
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & My Business
 
-- 🔭 I’m currently working on [Chroma Ecommerce App](https://chroma.merazuddin.me/)
-- 💬 Ask me about **JavaScript, React, C#, C++**
-- 📫 Email: **merazuddin003@gmail.com**
-- 👯 Open to collaborating on **open-source web development projects**
-- Portfolio: www.merazuddin.me
+- 🚀 **Founder of [KommerceBD](https://kommercebd.com)** - Helping businesses launch their ecommerce websites with affordable monthly plans
+- 💼 **What we offer**: Complete ecommerce solutions, website development, and ongoing support
+- 💡 **Mission**: Making ecommerce accessible and affordable for businesses of all sizes
+- 🔭 Currently working on enhancing our service offerings at KommerceBD
+- 💬 Ask me about **ecommerce development, JavaScript, React, affordable web solutions**
+- 📫 Business inquiries: **merazuddin003@gmail.com**
+- 👯 Open to collaborating on **ecommerce projects and partnerships**
+- Portfolio: www.merazuddin.me | Business: www.kommercebd.com
 
 <br><br>
 
 <div align="center">
-  <h2><strong>🌐 Social Profiles</strong></h2>
+  <h2><strong>🌐 Connect With Me</strong></h2>
   <a href="https://www.linkedin.com/in/meraz-uddin003/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:merazuddin003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://kommercebd.com">
+    <img src="https://img.shields.io/badge/Website-KommerceBD-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
 
@@ -95,11 +98,13 @@ I'm Meraz Uddin</h1>
 </div>
 <br><br>
 
-
 </div>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=astr1cs&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="astr1cs" />
+  <a href="https://kommercebd.com">
+    <img src="https://img.shields.io/badge/Visit-KommerceBD.com-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="KommerceBD">
+  </a>
 </p>
