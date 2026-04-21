@@ -30,7 +30,7 @@ I'm Meraz Uddin</h1>
 - 💬 Ask me about **ecommerce development, JavaScript, React, affordable web solutions**
 - 📫 Business inquiries: **merazuddin003@gmail.com**
 - 👯 Open to collaborating on **ecommerce projects and partnerships**
-- Portfolio: www.merazuddin.me | Business: www.kommercebd.com
+- Portfolio: merazuddin.kommercebd.com | Business: www.kommercebd.com
 
 <br><br>
 
